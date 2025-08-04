@@ -29,4 +29,4 @@ function displayUser(user){
         </div>`
         userContainer.appendChild(li)
 }
-getUsersData("https://jsonplaceholder.typicode.com/users")
+getUsersData("http://localhost:3000/users")
